@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">avpbs</string>
+    <string name="avpbs_bottom_sheet_behavior" translatable="false">com.example.cuong.avpbs.AnchorViewPagerBottomSheet</string>
+</resources>
