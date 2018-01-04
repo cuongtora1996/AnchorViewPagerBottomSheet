@@ -31,4 +31,5 @@ bottomSheetBehavior.setState(AnchorViewPagerBottomSheet.STATE_ANCHOR);
 
 # Reference Library
 **ViewPagerBottomSheet**: [Here](https://github.com/laenger/ViewPagerBottomSheet)
+
 **AnchorSheetBehavior**: [Here](https://github.com/skimarxall/AnchorSheetBehavior)
