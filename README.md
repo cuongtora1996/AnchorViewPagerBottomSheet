@@ -24,11 +24,10 @@ Setup any nested `ViewPager` inside the bottom sheet:
 ```
 BottomSheetUtils.setupViewPager(bottomSheetViewPager)
 ```
-Use 'STATE_ANCHOR' if you want to anchor:
+Use `STATE_ANCHOR` if you want to anchor your bottom sheet view:
 ```
 bottomSheetBehavior.setState(AnchorViewPagerBottomSheet.STATE_ANCHOR);
 ```
-If you want to change height of the BottomSheet compared to the Screen, copy all of this lib and change `ANCHOR_THRESHOLD` in `AnchorViewPagerBottomSheet`. The lower number, the high height compare to the screen.
 
 # Reference Library
 **ViewPagerBottomSheet**: [Here](https://github.com/laenger/ViewPagerBottomSheet)
