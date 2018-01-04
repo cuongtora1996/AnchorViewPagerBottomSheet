@@ -1,5 +1,5 @@
 # AnchorViewPagerBottomSheet
-NO WORK HERE. I just combine 2 lib into 1. This lib is about BottomSheetBehaviour which can Anchor in 1 point and use mutiple ViewPager. The easy example is that I want a BottomSheetBehaviour like GoogleMap BottomSheet. I put 2 link lib in the end.
+**NO WORK HERE**. I just combine 2 lib into 1. This lib is about BottomSheetBehaviour which can Anchor in 1 point and use mutiple ViewPager. The easy example is that I want a BottomSheetBehaviour like GoogleMap BottomSheet. I put 2 link lib in the end.
 # How to use
 Add it in your root build.gradle at the end of repositories:
 ```
