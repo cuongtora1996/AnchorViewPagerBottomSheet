@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AnchorViewPagerBottomSheetTest.iml" filepath="$PROJECT_DIR$/AnchorViewPagerBottomSheetTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnchorViewPagerBottomSheet.iml" filepath="$PROJECT_DIR$/AnchorViewPagerBottomSheet.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/avpbs/avpbs.iml" filepath="$PROJECT_DIR$/avpbs/avpbs.iml" />
     </modules>
